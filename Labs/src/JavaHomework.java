@@ -1,4 +1,4 @@
-public class Labs {
+public class JavaHomework {
 
 	public static void main(String[] args) {
 		
@@ -12,7 +12,7 @@ public class Labs {
 		
 		//uninitialized variable
 		String farewell;
-		System.out.println(farewell);
+		//System.out.println(farewell);
 		
 		//integers
 		int luckyNum = 13;
@@ -29,7 +29,7 @@ public class Labs {
 		char grade = 'A';
 		char favLetter = 'K';
 		System.out.println(favLetter);
-		//char 1letter = 'C';
+		char 1letter = 'C';
 		
 		
 		double lucky = 300;
@@ -41,9 +41,7 @@ public class Labs {
 		long num = 500L;
 		
 		float pie = 3.14159F; 
-		//float rand Float = 45.9876F;
-		
-		
+		float rand Float = 45.9876F;	
 		
 	}
 
