@@ -10,9 +10,11 @@ public class JavaHomework {
 		String lastName = "Mueller";
 		System.out.println(lastName);
 		
+		//favAnimal = "dog"; 
+		
 		//uninitialized variable
 		String farewell;
-		//System.out.println(farewell);
+		System.out.println(farewell);
 		
 		//integers
 		int luckyNum = 13;
@@ -29,7 +31,7 @@ public class JavaHomework {
 		char grade = 'A';
 		char favLetter = 'K';
 		System.out.println(favLetter);
-		char 1letter = 'C';
+		char 1*letter = 'C';
 		
 		
 		double lucky = 300;
@@ -37,6 +39,9 @@ public class JavaHomework {
 		
 		
 		boolean answer = true;
+		boolean heads = false;
+		boolean Tails = true;
+		boolean truth = false; 
 		
 		long num = 500L;
 		
