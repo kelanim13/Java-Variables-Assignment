@@ -3,14 +3,14 @@ public class JavaHomework {
 	public static void main(String[] args) {
 		
 		
-		//declaring strings
+		//variables
 		String firstName = "Kelani";
 		System.out.println(firstName);
 		
 		String lastName = "Mueller";
 		System.out.println(lastName);
 		
-		//favAnimal = "dog"; 
+		favAnimal = "dog"; 
 		
 		//uninitialized variable
 		String farewell;
@@ -44,6 +44,7 @@ public class JavaHomework {
 		boolean truth = false; 
 		
 		long num = 500L;
+		long num2 = 234565L; 
 		
 		float pie = 3.14159F; 
 		float rand Float = 45.9876F;	
