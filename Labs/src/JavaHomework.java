@@ -47,6 +47,8 @@ public class JavaHomework {
 		
 		double randNumber = 456.2d;
 		
+		double cookies = 500.654d; 
+		
 		
 		boolean answer = true;
 		System.out.println(answer);
